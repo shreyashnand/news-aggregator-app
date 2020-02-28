@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,700|Sansita+One);
+  
+  
+  
+.dark-mode {
+  background-color: #b10f2e;
+  color: black;
+
+ 
+}
+
+  
+.dark-mode #search{
+
+	color:black;
+	width: 90%;
+	padding: 16px;
+	box-sizing: border-box;
+	border: 0;
+	border-bottom: 1px solid black;
+	background: transparent;
+
+}
+.dark-mode ::placeholder{
+/*color:#e3d26f;*/
+color:#fcfcfc;
+}
+
+
+.dark-mode #mode{
+	background-color:white;
+	color:#910d26;
+}
+
+.dark-mode .main-title{
+	border: 2px solid #2a2a72;
+	
+}
+.dark-mode .article{
+	background:black;
+}
+
+.dark-mode .article-img-wrap{
+	/*background:#2a2a72;*/
+	background:#844545;
+ }
+ 
+ 
+.dark-mode .article-title{
+	color:gray;
+}
+
+.dark-mode .article-description{
+color:#2a2a72;
+}
+.dark-mode .article-author{
+color:#a69951;
+}
+
+/*Responsive switch button */
+
+@media screen and (max-width: 720px) {
+  #mode {
+    right:6px;
+	top:20px;
+  }
+
+}
