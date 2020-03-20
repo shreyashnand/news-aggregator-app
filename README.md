@@ -1,5 +1,5 @@
 
-Live app : daily-news-app.surge.sh
+Live app : [news-app](daily-news-app.surge.sh)
 
 # Webpack Frontend Starterkit
 
