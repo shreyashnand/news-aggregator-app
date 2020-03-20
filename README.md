@@ -1,5 +1,5 @@
 
-Live app : [http://daily-news-app.surge.sh/](http://daily-news-app.surge.sh/)
+Live app : [http://globalnews.surge.sh/](http://globalnews.surge.sh/)
 
 # Webpack Frontend Starterkit
 
